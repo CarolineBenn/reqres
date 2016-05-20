@@ -1,0 +1,22 @@
+{
+  "name": "passport-jwt-boilerplate",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "CarolineBenn <lineybenn@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "query": "^0.0.2"
+  }
+}

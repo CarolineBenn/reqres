@@ -1,0 +1,21 @@
+
+users
+- first name
+- last name
+- email
+- location
+- phone number
+- link to github
+
+- PROFILE
+- About me
+- Languages
+- 
+
+
+- OAuth? Sign in with your Github account
+- Initialize your profile with a README.md
+- profile has to be written in markdown
+- websocket.io
+
+Respond with status codes

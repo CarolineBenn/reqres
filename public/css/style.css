@@ -1,0 +1,33 @@
+.page-header {
+  background: #1a8;
+  font-weight: bold;
+  padding: 10px 0;
+  margin-bottom: 30px;
+}
+
+.page-header h1 {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.team-details {
+  background: white;
+  padding: 30px;
+}
+
+.team-details h1, h4, p {
+  color: white;
+  text-align: center;
+}
+
+h5 {
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+span.users {
+  font-style: italic;
+  color: #888;
+  font-weight: normal;
+}
+
