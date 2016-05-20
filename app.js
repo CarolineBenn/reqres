@@ -54,5 +54,5 @@ app.get("*", function(req, res) {
 })
 
 app.listen(config.port, function(){
-  console.log("Express is alive and kicking on port: ", config.port);
+  console.log("Express is alive and kicking on port ", config.port);
 })
