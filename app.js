@@ -33,6 +33,7 @@ app.use('/api', expressJWT({ secret: config.secret })
     { url: '/api/login', methods: ['POST'] },
     { url: '/api/register', methods: ['POST'] },
     // { url: '/api/users', methods: ['GET'] }
+    //
   ]
 }));
 
